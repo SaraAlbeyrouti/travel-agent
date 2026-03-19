@@ -43,12 +43,13 @@ GOOGLE_PLACES_API_KEY=your_key_here
 streamlit run app.py
 
 ## Project Structure
-
+```
 travel-agent/
 ├── agent.py          # LangChain agent + 4 tool definitions
 ├── app.py            # Streamlit UI
 ├── Requirements.txt  # Dependencies
-└── .env              # API keys
+└── .env              # API keys (never commit this!)
+```
 
 ## Example Output
 
