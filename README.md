@@ -48,7 +48,7 @@ travel-agent/
 ├── agent.py          # LangChain agent + 4 tool definitions
 ├── app.py            # Streamlit UI
 ├── Requirements.txt  # Dependencies
-└── .env              # API keys (never commit this!)
+└── .env              # API keys 
 ```
 
 ## Example Output
